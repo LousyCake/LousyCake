@@ -22,7 +22,7 @@
 ## 🛠 Tech Stack
 
 - **Languages**: Python | Golang | JavaScript
-- **Frameworks**: React.js | Flask
+- **Frameworks**: React.js
 - **Databases**: MongoDB | PostgreSQL
 - **Tools**: Blender | Unreal Engine | Adobe Photoshop | Adobe Premiere Pro
 
